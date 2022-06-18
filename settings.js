@@ -20,7 +20,7 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "R-BotMD" //namabot kalian
 global.ownername= "RakaNovan" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://instagram.com/rakanovantara" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/Raka Novan" //bebas asal jan hapus
 global.github = "https://RakaNov12.github.io/" //bebas
 global.email = "rakanovantara@gmail.com@gmail.com" //bebas
